@@ -1,2 +1,2 @@
 # ChatbotML4K
-Chatbot que responde sobre los buzos que tenemos en la tienda.
+Contiene el chatbot creado con ML4K. Este chatbot de dara recomendaciones sobre varios de los productos que tenemos en nuestra tienda.
